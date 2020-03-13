@@ -109,5 +109,4 @@ SELECT * FROM films WHERE title="Inception"
 * Select SQL tab
 * Write an SQL statement to delete a film from the database table.
 
-## On Your Own
-* Have a go at creating another database table. Choose one of the examples from the lecture, or if you have an idea for the Assignment, try and create a table for one of the classes in your Assignment scenario. Go through the same steps as above i.e. create a table, insert some data and runs some queries to select data.
+
