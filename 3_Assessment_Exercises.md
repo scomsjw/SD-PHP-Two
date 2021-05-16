@@ -1,6 +1,6 @@
 # Introduction to MySQL
 
-## If you are using selene
+## Using selene
 
 You already have a database set up for you (it's named after your student number). You only have access to this one database.
 * Open a web browser, open https://selene.hud.ac.uk/phpmyadmin/
@@ -10,25 +10,6 @@ You already have a database set up for you (it's named after your student number
 * Once logged in, on the left-hand side you will see your available database.
 * Click on it (its named with your student number).
 * Skip down these instructions to 'Creating Tables'
-
-## If you are using XAMPP
-You can create as many databases and users as you want. My advice is to create a database and user for this database that mimics the set-up on selene.
-* Open the Control Panel
-* Start Apache
-* Start MySQL
-* Open a web browser, open http://localhost/phpmyadmin/ . You won't need to login as you will be logged as the root 'super user' automatically.
-* Select 'User Accounts'
-* Select 'Add user account'
-* Enter the following settings
-  * Username: **Use text field** : your student number e.g. **u1234567**
-  * Host name: **Local** : **localhost**
-  * Password: **Use text field** : Date of Birth e.g. **01jan97**
-* Select 'Create database with same name and grant all privileges'
-* Don't grant global privileges
-* Scroll down and click 'Go'
-
-This will set up a user with your selene login details and a database named with your student number. It will appear on the left-hand side.
-* Click on your student number database to open it.
 
 ## Creating Tables
 * Make sure your database is selected.
