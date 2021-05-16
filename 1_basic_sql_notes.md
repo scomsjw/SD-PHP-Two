@@ -370,7 +370,7 @@ UPDATE students SET course= 'IT' WHERE id = 2
 |    5    |    Laxman      |    Sunil     |    Web Programming         |    52    |
 |    6    |    Crowe       |    Grace     |    Computing                  |    70    |
 
-## Deleting Records
+## Deleting a Record
 Using the DELETE statement we can remove rows from a table
 ```sql
 DELETE FROM students WHERE id = 4
