@@ -67,7 +67,7 @@ INSERT INTO `films` (`id`, `title`, `year`, `duration`) VALUES
 SELECT * FROM films WHERE title="Inception"
 ```
 * Click 'go'. You should see the results of the query.
-* Write SELECT statements that will do the following. Refer to the notes for similar examples/advice. 
+* Write SELECT statements that will do the following. Refer to the notes for similar examples/advice. For your assignment you should edit this document inserting the queries 
   * List all the films that were made in 2004
   * List all the films  with a duration of 100 minutes or greater
   * List these films in order, from the longest to the shortest
@@ -86,8 +86,6 @@ SELECT * FROM films WHERE title="Inception"
   * List each year. For each year, display the average duration of all the films made in that year, order the results in ascending order
   * Modify the above by rounding the duration of each film to the nearest minute (you might have to do some extra research)
 
-## Deleting Data
-* Select SQL tab
-* Write an SQL statement to delete a film from the database table.
+
 
 
