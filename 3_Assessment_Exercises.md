@@ -67,7 +67,7 @@ INSERT INTO `films` (`id`, `title`, `year`, `duration`) VALUES
 SELECT * FROM films WHERE title="Inception"
 ```
 * Click 'go'. You should see the results of the query.
-* Write SELECT statements that will do the following. Refer to the notes for similar examples/advice. For your assignment you should edit this document inserting the queries 
+* Write SELECT statements that will do the following. Refer to the notes for similar examples/advice. For your assignment you should provide a full set of queries that you have tested. You do not need to provide screenshots.
   * List all the films that were made in 2004
   * List all the films  with a duration of 100 minutes or greater
   * List these films in order, from the longest to the shortest
