@@ -84,7 +84,7 @@ SELECT * FROM films WHERE title="Inception"
   * Display the average duration of all the films made in the 21st century
   * List each year and the number of films made in that year
   * List each year. For each year, display the average duration of all the films made in that year, order the results in ascending order
-  * Modify the above by rounding the duration of each film to the nearest minute (you might have to do some extra research)
+  
 
 
 
